@@ -21,8 +21,7 @@ basicos para el diseño de la programacion orientada a objetos)
 		D - Dependency inversion		
 
 PRINCIPIOS UTILIZADOS:
-	*OPEN/CLOSED*: El principio está justificado en el sentido que esta abierto para la extension para los instrumentos y cerrado para la	    
-	              modificacion puesto que no es necesario la modificacion del codigo base de la logica ya establecida.
+	*OPEN/CLOSED*: El principio está justificado en el sentido que esta abierto para la extension para los instrumentos y cerrado para la modificacion puesto que no es necesario la modificacion del codigo base de la logica ya establecida.
   *LEY DE DEMETER*: El principio se ve aplicado en el poco conocimiento entre abstracciones del mismo nivel, por ejemplo entre la Clase 
 		               Guitarra y la Clase Bajo.
 	*INVERSION DE DEPENDENCIAS*: El principio se aplica por la presencia de la clase abstracta Instrumento ya que permite el desacoplamiento
