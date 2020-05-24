@@ -21,12 +21,12 @@ basicos para el diseño de la programacion orientada a objetos)
 		D - Dependency inversion		
 
 PRINCIPIOS UTILIZADOS:
-	*Open/Closed*: El principio está justificado en el sentido que esta abierto para la extension para los instrumentos y cerrado para la	    
+	*OPEN/CLOSED*: El principio está justificado en el sentido que esta abierto para la extension para los instrumentos y cerrado para la	    
 	              modificacion puesto que no es necesario la modificacion del codigo base de la logica ya establecida.
-  *Ley de Demeter*: El principio se ve aplicado en el poco conocimiento entre abstracciones del mismo nivel, por ejemplo entre la Clase 
+  *LEY DE DEMETER*: El principio se ve aplicado en el poco conocimiento entre abstracciones del mismo nivel, por ejemplo entre la Clase 
 		               Guitarra y la Clase Bajo.
-	*Inversion de dependencias*: El principio se aplica por la presencia de la clase abstracta Instrumento ya que permite el desacoplamiento
+	*INVERSION DE DEPENDENCIAS*: El principio se aplica por la presencia de la clase abstracta Instrumento ya que permite el desacoplamiento
 															 entre las clases que se relacionan directamente
-	*Kiss*: Este principio establece que, como su acronimo dice; mantenlo sencillo y estupido. La mayoria de los sistemas funcionan mejor si
+	*KISS*: Este principio establece que, como su acronimo dice; mantenlo sencillo y estupido. La mayoria de los sistemas funcionan mejor si
 				  se mantienen simples que si se mantienen complejos. y la simplicidad es una gran caracteristica de la banda aleatoria 
 
