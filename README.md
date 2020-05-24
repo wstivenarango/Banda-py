@@ -11,7 +11,7 @@ WILSON STIVEN ARANGO MARTINEZ --- 20182020032
 ####DOCUMENTACION Y JUSTIFICACION PROYECTO "BANDA ALEATORIA"####
 
 JUSTIFICACION: 
-El proyecto esta realizado con el fin de afianzar y aplicar los principios denominados 
+El proyecto esta realizado con el fin de afianzar y aplicar los principios de diseño donde estan los denominados 
 SOLID (Acronimo inventado por Robert C. Martin para hacer referencia a los principios 
 basicos para el diseño de la programacion orientada a objetos)
 		S - Single responsability 
